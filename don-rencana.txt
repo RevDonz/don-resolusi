@@ -1,4 +1,6 @@
 RENCANA OLAHRAGA
 
 - Bersepeda
+  * gunung
+  * hutan
 - Lari
