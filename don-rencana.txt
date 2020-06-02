@@ -2,6 +2,6 @@ RENCANA OLAHRAGA
 
 - Bersepeda
   * gunung
+    ^ gunung itu
   * hutan
-- Lari
 - Push Up
