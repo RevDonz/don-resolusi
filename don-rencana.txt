@@ -2,6 +2,7 @@ RENCANA OLAHRAGA
 
 - Bersepeda
   * gunung
-    ^ gunung itu
+    ^ gunung anu
   * hutan
 - Push Up
+- plank
