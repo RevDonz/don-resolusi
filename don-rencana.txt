@@ -4,3 +4,4 @@ RENCANA OLAHRAGA
   * gunung
   * hutan
 - Lari
+- Push Up
